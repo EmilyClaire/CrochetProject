@@ -1,7 +1,0 @@
-ex: 5dc bobble
-
-Class Bobble
-	final String type = "bobble" // maybe instead just a class check
-
-	class Bobble (int inputNumStitches, String stitchType, Point topLeft, Point bottomLeft)
-		final int numStitches = inputNumStitches;
